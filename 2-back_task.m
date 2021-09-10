@@ -1,5 +1,5 @@
 % 2-back task project with Matlab
-% author : Farrokh Karimi
+% Author : Farrokh Karimi
 % Institute for Research in Fundamental Sciences (IPM)
 
 clc
