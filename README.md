@@ -16,7 +16,7 @@ and the size of the set of stimuli.
 In a typical experiment, you see that letters are presented for 500 ms followed by a 2500 ms black
 period. This timing seems to be used in lots of N-back studies (e.g., Kane & Conway, 2007).
 
-There are different typical types of response you can see more in the above [pdf file](./2-back_task.pdf).
+There are different types of responses, you can see more in the above [pdf file](./2-back_task.pdf).
 
 # A schema of the N-back task:
 
