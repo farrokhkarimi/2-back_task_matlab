@@ -53,7 +53,7 @@ in the Command Window, at the end of the task.
 # Running
 You can run the code via the above [m file](./2-back_task.m)
 
-# Acknowledgments
+# Reference and more info
 
 **Reference:**
 https://www.psytoolkit.org/experiment-library/nback2.html
